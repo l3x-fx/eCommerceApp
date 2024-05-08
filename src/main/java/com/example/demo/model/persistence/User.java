@@ -32,5 +32,7 @@ public class User {
 	@JsonIgnore
 	private Cart cart;
 
-
+	public void clearCart() {
+		this.cart = new Cart();
+	}
 }
