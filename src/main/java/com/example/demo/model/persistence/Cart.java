@@ -45,7 +45,8 @@ public class Cart {
 	@JsonProperty
 	private BigDecimal total;
 
-	
+
+
 	public void addItem(Item item) {
 		if(items == null) {
 			items = new ArrayList<>();
