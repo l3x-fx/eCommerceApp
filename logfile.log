@@ -1,0 +1,24 @@
+09-05-2024 14:53:24 ERROR OrderController:35 - User asdf not found.
+09-05-2024 14:53:25 ERROR OrderController:35 - User asdf not found.
+09-05-2024 15:18:35 INFO  UserController:48 - Username set toJason
+09-05-2024 15:18:35 INFO  UserController:61 - User Jason successfully created
+09-05-2024 15:18:51 INFO  CartController:77 - Cart  for user Jason found
+09-05-2024 15:19:17 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:18 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:19 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:20 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:21 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:22 INFO  CartController:49 - Item added to cart of user Jason
+09-05-2024 15:19:25 INFO  CartController:77 - Cart  for user Jason found
+09-05-2024 15:19:42 INFO  OrderController:43 - Order 1 successfully submitted
+09-05-2024 15:19:44 INFO  OrderController:43 - Order 2 successfully submitted
+09-05-2024 15:20:01 ERROR CartController:42 - Could not add item. Item does not exist!
+09-05-2024 15:20:03 ERROR CartController:42 - Could not add item. Item does not exist!
+09-05-2024 15:20:04 ERROR CartController:42 - Could not add item. Item does not exist!
+09-05-2024 15:20:05 ERROR CartController:42 - Could not add item. Item does not exist!
+09-05-2024 15:20:05 ERROR CartController:42 - Could not add item. Item does not exist!
+09-05-2024 15:20:11 ERROR CartController:81 - Could not load cart. User not found.
+09-05-2024 15:20:12 ERROR CartController:81 - Could not load cart. User not found.
+09-05-2024 15:20:13 ERROR CartController:81 - Could not load cart. User not found.
+09-05-2024 15:20:14 ERROR CartController:81 - Could not load cart. User not found.
+09-05-2024 15:20:14 ERROR CartController:81 - Could not load cart. User not found.
